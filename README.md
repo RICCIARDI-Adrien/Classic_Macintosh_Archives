@@ -13,12 +13,12 @@ Notes :
 
 | Name | Description | Test computer | OS version |
 | ---- | ----------- | ------------- | ---------- |
-| Canfield 3.1 | Solitaire cards game | Macintosh SE FD/HD | System 7.5.3 |
-| Star 'Roids 7.0 | Asteroids clone | Macintosh SE FD/HD | System 7.5.3 |
+| Canfield 3.1 | Solitaire cards game | Macintosh SE FDHD | System 7.5.3 |
+| Star 'Roids 7.0 | Asteroids clone | Macintosh SE FDHD | System 7.5.3 |
 
 ### Utilities
 
 | Name | Description | Test computer | OS version |
 | ---- | ----------- | ------------- | ---------- |
-| StuffIt Lite 3.6 | Archives management | Macintosh SE FD/HD | System 7.5.3 |
-| Disk Copy 6.1 | Mount disk images | Macintosh SE FD/HD | System 7.5.3 |
+| StuffIt Lite 3.6 | Archives management | Macintosh SE FDHD | System 7.5.3 |
+| Disk Copy 6.1 | Mount disk images | Macintosh SE FDHD | System 7.5.3 |
