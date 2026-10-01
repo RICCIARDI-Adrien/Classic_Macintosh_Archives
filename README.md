@@ -12,5 +12,5 @@ Notes :
 | Category | Name | Description | Test computer | OS version |
 | -------- | ---- | ----------- | ------------- | ---------- |
 | Game     | Canfield 3.1 | Solitaire cards game | Macintosh SE FD/HD | System 7.5.3 |
-| Game     | Star'Roids 7.0 | Asteroids clone | Macintosh SE FD/HD | System 7.5.3 |
+| Game     | Star 'Roids 7.0 | Asteroids clone | Macintosh SE FD/HD | System 7.5.3 |
 | Utilities  | StuffIt Lite 3.6 | Archives management | Macintosh SE FD/HD | System 7.5.3 |
