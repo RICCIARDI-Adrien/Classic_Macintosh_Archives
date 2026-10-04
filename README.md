@@ -13,6 +13,7 @@ Notes :
 
 | Name | Description | Test computer | OS version |
 | ---- | ----------- | ------------- | ---------- |
+| Cairo ShootOut 1.2 | Rail shooter | Macintosh SE FDHD | System 7.5.3 |
 | Canfield 3.1 | Solitaire cards game | Macintosh SE FDHD | System 7.5.3 |
 | Star 'Roids 7.0 | Asteroids clone | Macintosh SE FDHD | System 7.5.3 |
 
