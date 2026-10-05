@@ -17,6 +17,7 @@ Notes :
 | Canfield 3.1 | Solitaire cards game | Macintosh SE FDHD | System 7.5.3 |
 | Crazy Cars 1.3 | Cars race | Macintosh SE FDHD | System 7.5.3 |
 | Checkers | Checkers game | Macintosh SE FDHD | System 7.5.3 |
+| Klondike 7.7.1 | Solitaire cards game | Macintosh SE FDHD | System 7.5.3 |
 | Star 'Roids 7.0 | Asteroids clone | Macintosh SE FDHD | System 7.5.3 |
 
 ### Utilities
