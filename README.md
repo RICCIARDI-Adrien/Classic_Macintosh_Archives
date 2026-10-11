@@ -24,6 +24,12 @@ Notes :
 | Klondike 7.7.1 | Solitaire cards game | Macintosh SE FDHD | System 7.5.3 |
 | Star 'Roids 7.0 | Asteroids clone | Macintosh SE FDHD | System 7.5.3 |
 
+### Hardware development
+
+| Name | Description | Test computer | OS version |
+| ---- | ----------- | ------------- | ---------- |
+| xLogicCircuits 1.2 | Logic gates simulator | Macintosh SE FDHD | System 7.5.3 |
+
 ### Software development
 
 | Name | Description | Test computer | OS version |
