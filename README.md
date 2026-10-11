@@ -19,8 +19,8 @@ Notes :
 | ---- | ----------- | ------------- | ---------- |
 | Cairo ShootOut 1.2 | Rail shooter | Macintosh SE FDHD | System 7.5.3 |
 | Canfield 3.1 | Solitaire cards game | Macintosh SE FDHD | System 7.5.3 |
-| Crazy Cars 1.3 | Cars race | Macintosh SE FDHD | System 7.5.3 |
 | Checkers | Checkers game | Macintosh SE FDHD | System 7.5.3 |
+| Crazy Cars 1.3 | Cars race | Macintosh SE FDHD | System 7.5.3 |
 | Klondike 7.7.1 | Solitaire cards game | Macintosh SE FDHD | System 7.5.3 |
 | Star 'Roids 7.0 | Asteroids clone | Macintosh SE FDHD | System 7.5.3 |
 
@@ -40,5 +40,6 @@ Notes :
 
 | Name | Description | Test computer | OS version |
 | ---- | ----------- | ------------- | ---------- |
-| StuffIt Lite 3.6 | Archives management | Macintosh SE FDHD | System 7.5.3 |
 | Disk Copy 6.1 | Mount disk images | Macintosh SE FDHD | System 7.5.3 |
+| ResEdit 4.0 | Edit files resource forks | Macintosh SE FDHD | System 7.5.3 |
+| StuffIt Lite 3.6 | Archives management | Macintosh SE FDHD | System 7.5.3 |
