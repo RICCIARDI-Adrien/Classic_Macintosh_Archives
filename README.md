@@ -2,6 +2,10 @@
 
 A compilation of some old Macintosh abandonware.
 
+## Documentation
+
+The documentation for some of the listed programs may be found [here](https://github.com/RICCIARDI-Adrien/Documentation/tree/master/Macintosh).
+
 ## Software list
 
 Notes :
