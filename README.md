@@ -36,6 +36,12 @@ Notes :
 | ---- | ----------- | ------------- | ---------- |
 | MacsBug 6.2.2 | Debugger | Macintosh SE FDHD | System 7.5.3 |
 
+### Text editors
+
+| Name | Description | Test computer | OS version |
+| ---- | ----------- | ------------- | ---------- |
+| Microsoft Word 5.0 | Word processor | Macintosh SE FDHD | System 7.5.3 |
+
 ### Utilities
 
 | Name | Description | Test computer | OS version |
