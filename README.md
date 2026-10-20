@@ -49,5 +49,6 @@ Notes :
 | ---- | ----------- | ------------- | ---------- |
 | Disk Copy 6.1 | Mount disk images | Macintosh SE FDHD | System 7.5.3 |
 | HexEdit 1.4 | Hex editor | Macintosh SE FDHD | System 7.5.3 |
+| MacTools 6.3.1 | File system interaction | Macintosh SE FDHD | System 7.5.3 |
 | ResEdit 4.0 | Edit files resource forks | Macintosh SE FDHD | System 7.5.3 |
 | StuffIt Lite 3.6 | Archives management | Macintosh SE FDHD | System 7.5.3 |
