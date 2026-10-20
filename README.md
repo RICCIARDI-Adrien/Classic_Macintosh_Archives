@@ -27,6 +27,7 @@ Notes :
 | Mouse Stampede 2.0 | Repel a storm of mices | Macintosh SE FDHD | System 7.5.3 |
 | Scarab of RA 1.4 | Adventure point-and-click | Macintosh SE FDHD | System 7.5.3 |
 | Star 'Roids 7.0 | Asteroids clone | Macintosh SE FDHD | System 7.5.3 |
+| Star Wars 1.0 | First-person space shooter | Macintosh SE FDHD | System 7.5.3 |
 | The Duel - Test Drive II | Cars race | Macintosh SE FDHD | System 7.5.3 |
 | Thexder 1.0 | Run and gun with a robot | Macintosh SE FDHD | System 7.5.3 |
 
