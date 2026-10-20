@@ -24,6 +24,7 @@ Notes :
 | Epyx Rogue 1.0 | Rogue-like dungeon exploration | Macintosh SE FDHD | System 7.5.3 |
 | Gnop 1.0 | Pong clone | Macintosh SE FDHD | System 7.5.3 |
 | Klondike 7.7.1 | Solitaire cards game | Macintosh SE FDHD | System 7.5.3 |
+| Mouse Stampede 2.0 | Repel a storm of mices | Macintosh SE FDHD | System 7.5.3 |
 | Star 'Roids 7.0 | Asteroids clone | Macintosh SE FDHD | System 7.5.3 |
 | The Duel - Test Drive II | Cars race | Macintosh SE FDHD | System 7.5.3 |
 | Thexder 1.0 | Run and gun with a robot | Macintosh SE FDHD | System 7.5.3 |
