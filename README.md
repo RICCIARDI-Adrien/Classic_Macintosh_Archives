@@ -64,3 +64,4 @@ Notes :
 | MacTools 6.3.1 | File system interaction | Macintosh SE FDHD | System 7.5.3 |
 | ResEdit 4.0 | Edit files resource forks | Macintosh SE FDHD | System 7.5.3 |
 | StuffIt Lite 3.6 | Archives management | Macintosh SE FDHD | System 7.5.3 |
+| ZTerm 1.0.1 | Modem and serial port terminal | Macintosh SE FDHD | System 7.5.3 |
