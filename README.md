@@ -10,58 +10,58 @@ The documentation for some of the listed programs may be found [here](https://gi
 
 Notes :
 
-* All the programs below are tested and working.
+* All the programs below are tested and working with the specified OS versions.
 * All the Stuffit archives (`.sit`) can be uncompressed with *StuffIt Lite 3.6*, which is present in the Utilities directory.
 
 ### Games
 
-| Name | Description | Test computer | OS version |
-| ---- | ----------- | ------------- | ---------- |
-| Cairo ShootOut 1.2 | Rail shooter | Macintosh SE FDHD | System 7.5.3 |
-| Canfield 3.1 | Solitaire cards game | Macintosh SE FDHD | System 7.5.3 |
-| Checkers | Checkers game | Macintosh SE FDHD | System 7.5.3 |
-| Crazy Cars 1.3 | Cars race | Macintosh SE FDHD | System 7.5.3 |
-| Epyx Rogue 1.0 | Rogue-like dungeon exploration | Macintosh SE FDHD | System 7.5.3 |
-| Gnop 1.0 | Pong clone | Macintosh SE FDHD | System 7.5.3 |
-| Klondike 7.7.1 | Solitaire cards game | Macintosh SE FDHD | System 7.5.3 |
-| Mouse Stampede 2.0 | Repel a storm of mices | Macintosh SE FDHD | System 7.5.3 |
-| Scarab of RA 1.4 | Adventure point-and-click | Macintosh SE FDHD | System 7.5.3 |
-| Star 'Roids 7.0 | Asteroids clone | Macintosh SE FDHD | System 7.5.3 |
-| Star Wars 1.0 | First-person space shooter | Macintosh SE FDHD | System 7.5.3 |
-| The Duel - Test Drive II | Cars race | Macintosh SE FDHD | System 7.5.3 |
-| Thexder 1.0 | Run and gun with a robot | Macintosh SE FDHD | System 7.5.3 |
+| Name | Description | Test computer | OS versions |
+| ---- | ----------- | ------------- | ----------- |
+| Cairo ShootOut 1.2 | Rail shooter | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
+| Canfield 3.1 | Solitaire cards game | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
+| Checkers | Checkers game | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
+| Crazy Cars 1.3 | Cars race | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
+| Epyx Rogue 1.0 | Rogue-like dungeon exploration | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
+| Gnop 1.0 | Pong clone | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
+| Klondike 7.7.1 | Solitaire cards game | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
+| Mouse Stampede 2.0 | Repel a storm of mices | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
+| Scarab of RA 1.4 | Adventure point-and-click | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
+| Star 'Roids 7.0 | Asteroids clone | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
+| Star Wars 1.0 | First-person space shooter | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
+| The Duel - Test Drive II | Cars race | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
+| Thexder 1.0 | Run and gun with a robot | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
 
 ### Graphics
 
-| Name | Description | Test computer | OS version |
-| ---- | ----------- | ------------- | ---------- |
-| MacPaint 2.0 | Raster graphics editor | Macintosh SE FDHD | System 7.5.3 |
+| Name | Description | Test computer | OS versions |
+| ---- | ----------- | ------------- | ----------- |
+| MacPaint 2.0 | Raster graphics editor | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
 
 ### Hardware development
 
-| Name | Description | Test computer | OS version |
-| ---- | ----------- | ------------- | ---------- |
-| xLogicCircuits 1.2 | Logic gates simulator | Macintosh SE FDHD | System 7.5.3 |
+| Name | Description | Test computer | OS versions |
+| ---- | ----------- | ------------- | ----------- |
+| xLogicCircuits 1.2 | Logic gates simulator | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
 
 ### Software development
 
-| Name | Description | Test computer | OS version |
-| ---- | ----------- | ------------- | ---------- |
-| MacsBug 6.2.2 | Debugger | Macintosh SE FDHD | System 7.5.3 |
+| Name | Description | Test computer | OS versions |
+| ---- | ----------- | ------------- | ----------- |
+| MacsBug 6.2.2 | Debugger | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
 
 ### Text editors
 
-| Name | Description | Test computer | OS version |
-| ---- | ----------- | ------------- | ---------- |
-| Microsoft Word 5.0 | Word processor | Macintosh SE FDHD | System 7.5.3 |
+| Name | Description | Test computer | OS versions |
+| ---- | ----------- | ------------- | ----------- |
+| Microsoft Word 5.0 | Word processor | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
 
 ### Utilities
 
-| Name | Description | Test computer | OS version |
-| ---- | ----------- | ------------- | ---------- |
+| Name | Description | Test computer | OS versions |
+| ---- | ----------- | ------------- | ----------- |
 | Disk Copy 6.3.3 | Mount disk images | Macintosh SE FDHD | System 7.5.3 |
-| HexEdit 1.4 | Hex editor | Macintosh SE FDHD | System 7.5.3 |
-| MacTools 6.3.1 | File system interaction | Macintosh SE FDHD | System 7.5.3 |
-| ResEdit 4.0 | Edit files resource forks | Macintosh SE FDHD | System 7.5.3 |
-| StuffIt Lite 3.6 | Archives management | Macintosh SE FDHD | System 7.5.3 |
-| ZTerm 1.0.1 | Modem and serial port terminal | Macintosh SE FDHD | System 7.5.3 |
+| HexEdit 1.4 | Hex editor | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
+| MacTools 6.3.1 | File system interaction | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
+| ResEdit 4.0 | Edit files resource forks | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
+| StuffIt Lite 3.6 | Archives management | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
+| ZTerm 1.0.1 | Modem and serial port terminal | Macintosh SE FDHD | System 6.0.8, System 7.5.3 |
